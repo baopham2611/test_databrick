@@ -1,0 +1,13 @@
+2026-06-23 04:25:45,525:WARNING:/databricks/python/lib/python3.11/site-packages/mlflow/protos/service_pb2.py:11: UserWarning:
+
+google.protobuf.service module is deprecated. RPC implementations should provide code generator plugins which generate code specific to the RPC implementation. service.py will be removed in Jan 2025
+
+
+2026-06-23 04:25:46,319:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-06-23 04:25:46,319:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-06-23 04:25:46,320:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-06-23 04:25:46,320:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
